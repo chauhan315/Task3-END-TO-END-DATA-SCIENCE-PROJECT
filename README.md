@@ -128,10 +128,14 @@ If you want to run this project on your local machine, follow these steps:
 git clone https://github.com/yourusername/personality-classification.git
 cd personality-classification
 
+---
+
+
 ### Deployment
-- This app is deployed and publicly accessible at:
-- https://task3-end-to-end-data-science-project.onrender.com
+
+- This app is deployed and publicly accessible at:  
+  [https://task3-end-to-end-data-science-project.onrender.com](https://task3-end-to-end-data-science-project.onrender.com)
 
 Feel free to try it out live! Enter your details and see your predicted personality type instantly.
 
-- The deployment was done using Render, a free cloud platform for hosting web apps. The backend FastAPI app, along with all the saved models and preprocessors, was uploaded and configured on Render for easy access without needing to run locally.
+- The deployment was done using **Render**, a free cloud platform for hosting web apps. The backend FastAPI app, along with all the saved models and preprocessors, was uploaded and configured on Render for easy access without needing to run locally.
